@@ -1,2 +1,2 @@
-# Gu-a-Digital
+# Guia Digital
 proyecto
